@@ -1,0 +1,101 @@
+{
+    "breeds": [
+        {
+            "id":1,
+            "name":"Dachshund",
+            "traits":"Spunky, curious, friendly",
+            "dyk": [
+                "The dachshund was developed in Germany more than 300 years ago to hunt badgers (dachs, badgers; hund, dog).",
+                "Dachshunds are bred with three coat varieties: (1) smooth, (2) long, and (3) wirehaired, and is shown in two sizes: standard and miniature.",
+                "In the postwar years, to avoid associations with Germany, the dachshund’s name was temporarily translated to 'badger dog.'",
+                "From 1930 to 1940, dachshunds advanced from 28th to sixth rank among american registrations, and maintained this average rank through World War II by constructive public relations.",
+                "Dachshunds are accomplished hunting dogs despite their lapdog reputations."
+            ],
+            "colors":12,
+            "markings":3,
+            "info":"The Dachshund, meaning 'badger dog' in German, is a lively breed with a friendly personality and keen sense of smell. Known for their long and low bodies, they are eager hunters that excel in both above- and below-ground work. One of the most popular breeds according to AKC® Registration Statistics, they come in three different coat varieties (Smooth, Wirehaired or Longhaired) and can be miniature or standard size.",
+            "image":"dachshund"
+        },
+        {
+            "id":2,
+            "name":"Beagle",
+            "traits":"Merry, friendly, curious",
+            "dyk": [
+                "In 1888 the national beagle club was formed and held the first field trial.",
+                "The height limit of a beagle in the United States is 15 inches and in england 16 inches; in addition, there are two varieties of beagle within the prescribed height: those under 13 inches and those over 13 but at or under 15 inches.",
+                "The American beagle standard contains a section with 'recommendations for show livery,' with the appropriate items to be worn on a hunt.",
+                "Lyndon B. Johnson owned three beagles named 'Him,' 'Her,' and 'Edgar.'",
+                "The beagle we know today is the result of select english importation; previous to about 1870 in the us, the little hunting hounds of the south, called beagles, were more of the type of straight-legged bassets or dachshunds with weaker heads than the bassets.",
+                "Beagles do not drool or have a doggy odor, and shedding is minimal.",
+                "Beagles are scent hounds used primarily for hunting rabbits to larger hares."
+            ],
+            "colors":11,
+            "markings":1,
+            "info":"Not only are Beagles excellent hunting dogs and loyal companions, they are also happy-go-lucky, funny, and—thanks to their pleading expression—cute. They were bred to hunt in packs, so they enjoy the company of other dogs and of people as well. Beagles love to follow their noses, which can sometimes get them into sticky situations. These dogs are solid, sturdy, and fairly easy to care for, but they do need to run around and let off steam.",
+            "image":"beagle"
+        },
+        {
+            "id":3,
+            "name":"Bichon Frise",
+            "traits":"Playful, curious, peppy",
+            "dyk": [
+                "The bichon descended from the barbet or water-spaniel, from which came the name 'barbichon,' later contracted to bichon.",
+                "appreciated for their dispositions, bichons traveled much through antiquity, finding early success in spain and frequently used as items of barter internationally.",
+                "The bichon was developed in the mediterranean area.",
+                "Bichons were rediscovered by the italians in the 14th century and became great favorites of italian nobility.",
+                "The bichon was also a favorite in spain, becoming a favorite of the infantas and painters of the spanish school (the breed is featured in a number of goya's paintings)."
+            ],
+            "colors":4,
+            "markings":0,
+            "info":"Its name (pronounced BEE-shon Free-ZAY) is French for 'fluffy white dog,' which is a very accurate way to describe these 10- to 20-pound four-legged cotton balls. Bred to be hypoallergenic, their white, curly coats rarely shed. This breed is easily trained and carries a charismatic, cheerful, and curious disposition. And their history of being pampered by French royalty makes them tolerant of being adorned in bows and bling, should you feel the urge.",
+            "image":"bichon-frise"
+        },
+        {
+            "id":4,
+            "name":"Golden Retriever",
+            "traits":"Intelligent, firendly, devoted",
+            "dyk": [
+                "The first registration of a golden retriever by the american kennel club was in november 1925.",
+                "Golden retrievers are used successfully in field trials, hunting, obedience, and as guide dogs for the blind.",
+                "Golden retrievers were first shown in england at the crystal palace show in 1908, and were listed as flat coats (golden).",
+                "The first three dogs of any breed to achieve the akc obedience champion title, first available in july 1977, were all golden retrievers. The first (ch. Moreland’s golden tonka) was a bitch, the others were males.",
+                "Goldens are among the most popular breeds in america and are familiar faces from numerous media spots, including the movie 'Air Bud' and the tv show 'Full House.'"
+            ],
+            "colors":3,
+            "markings":0,
+            "info":"It’s not surprising that Golden Retrievers are one of the most popular dog breeds in the United States. Along with being exuberant and friendly, they are strong dogs and hard workers. Goldens are good at whatever they do, be it hunting, serving as guide dogs, working search-and-rescue, or being devoted companions. Though they are serious about their work, they also enjoy being downright silly!",
+            "image":"golden-retriever"
+        },
+        {
+            "id":5,
+            "name":"Chihuahua",
+            "traits":"Graceful, charming, sassy",
+            "dyk": [
+                "The chihuahua comes in two varieties: long and smooth coat.",
+                "The breed derives its name from the mexican state of chihuahua, where the earliest specimens of the breed were found.",
+                "Pictures of dogs resembling the modern chihuahua appear in ancient paintings in Mexico.",
+                "The chihuahua is clannish, preferring companions of his own breed.",
+                "It is assumed that the small size of the modern chihuahua results from a cross of the techichi with the small hairless dog brought from asia to alaska over the land bridge that is now the bering strait."
+            ],
+            "colors":9,
+            "markings":6,
+            "info":"Chihuahuas are tiny dogs that come in many different colors and markings, and can have either long or short coats, but they all have large, alert ears, big moist eyes, and huge personalities. Inside each little Chihuahua is a miniature king or queen ready to rule their realms, so they need to be taught what is acceptable in human kingdoms. They are intelligent and enthusiastic, so they usually don’t need extensive training.",
+            "image":"chihuahua"
+        },
+        {
+            "id":6,
+            "name":"Collie",
+            "traits":"Graceful, devoted, proud",
+            "dyk": [
+                "There are two varieties of collie: rough and smooth.",
+                "The earliest illustrations of collies are found in woodcuts in the history of quadrupeds by Thomas Beswick around 1800.",
+                "Blue merle collies were originally known as 'tortoise shell' to describe their color.",
+                "Benjamin Harrison owned a collie named 'Dash.'"
+            ],
+            "colors":10,
+            "markings":4,
+            "info":"These elegant dogs are legendary for their herding and protecting abilities. They are strong, loyal, affectionate, responsive and fast. The rough-coated Collie has a beautiful long coat. It can look as if it’s floating across the landscape when it runs. The coats of both varieties—rough and smooth—used to be mostly black, but now can be sable and white, tri-color, blue merle and white. The breed has an elegant wedge-shaped head. Collies can do well in the country or the city, but need companionship.",
+            "image":"collie"
+        }
+    ]
+}
